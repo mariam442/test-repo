@@ -1,8 +1,8 @@
 # CFG Week One
 ## Intro to the world of the web and HTML
-
+hello world
 Welcome to Code First Girls!
-
+new 
 To complete this exercise, click on the green `Clone or Download` button on the top right, and select the `Download ZIP` option.
 
 Unzip the folder and move it into your `coding_course` folder. Then, open the whole folder in Atom.
